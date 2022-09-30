@@ -139,6 +139,11 @@
     "id": 28,
     "idea": "Count of people using drone technology"
     "idea": "Notice Board"
-}
+},
+{
+    "id": 29,
+    "idea": "Real Time Face Detection"
+},
+
 
 ]
