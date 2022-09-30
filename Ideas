@@ -67,5 +67,9 @@
     "id": 15,
     "idea": "Criminal detection using Machine learning"
 
+    },
+    {
+    "id":16,
+    "idea": "Stone-paper Scisoor game using javascript"
     }
 ]
