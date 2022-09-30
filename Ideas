@@ -88,6 +88,11 @@
    {
    "id": 21,
    "ideas": "PC Based GPS"
+   };
+   {
+    "id": 20,
+   "ideas": "headphone jack in smartphones"
+
    },
     {
       "id":22,
@@ -101,10 +106,6 @@
     "id": 24,
     "idea": "System.info"
    },
-   {
-    "id": 17,
-    "idea": "killing machine"
-   },
  {
     "id": 17,
     "idea": "Project Manajment system"
@@ -116,11 +117,15 @@
    },
    {
     "id": 25,
+    "idea": "Google maps clone for college campus navigation"
+   },
+{
+    "id": 26,
     "idea": "Subjective Answer Evaluation using Natural Language Processing"
 },
- {
-    "id": 26,
-    "idea": "Datbase query Management System"
+{
+    "id": 27,
+    "idea": "land registry system using blockchain"
 }
 
 ]
