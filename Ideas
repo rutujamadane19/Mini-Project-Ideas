@@ -88,11 +88,6 @@
    {
    "id": 21,
    "ideas": "PC Based GPS"
-   };
-   {
-    "id": 20,
-   "ideas": "headphone jack in smartphones"
-
    },
     {
       "id":22,
@@ -108,11 +103,10 @@
    },
    {
     "id": 25,
-    "idea": "Google maps clone for college campus navigation"
-   },
-{
-    "id": 26,
     "idea": "Subjective Answer Evaluation using Natural Language Processing"
+},
+ {
+    "id": 26,
+    "idea": "Datbase query Management System"
 }
-
 ]
