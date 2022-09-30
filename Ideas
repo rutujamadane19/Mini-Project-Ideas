@@ -83,7 +83,11 @@
     "idea": "WCE E-Colab"
    }
    {
-   "id": 19,
-   "ideas": "PC Based GPS"
+    "id": 21,
+    "idea": "Fashion Advisor using Ar vr"
+   }
+   {
+    "id": 22,
+    "idea": "Product Finder Using Image Processing"
    }
 ]
