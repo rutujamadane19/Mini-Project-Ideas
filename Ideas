@@ -60,15 +60,9 @@
     "id": 14,
     "idea": "Personal AI Trainer"
    },
-    {
-    "id": 16,
-    "idea": "Ordering food in hotel through software and billit it automatically"
-
-   },
-     {
+   {
     "id": 15,
     "idea": "Criminal detection using Machine learning"
-
     },
     {
     "id": 16,
@@ -90,29 +84,32 @@
     "id": 20,
     "idea": "WCE E-Colab"
    },
-   {
-   "id": 21,
-   "ideas": "PC Based GPS"
-   };
-   {
-    "id": 20,
-   "ideas": "headphone jack in smartphones"
-
-   },
+     {
+    "id": 21,
+    "idea": "Human Pose Detection"
+    },
     {
-      "id":22,
-      "idea":"Blockchain based database system"
+      "id": 22,
+      "idea": "Blockchain based database system"
    },
    {
    "id": 23,
-   "ideas": " Baby Cloud"
+   "ideas": "Baby Cloud"
    },
     {
     "id": 24,
     "idea": "System.info"
    },
+    {
+    "id": 25,
+   "ideas": "headphone jack in smartphones"
+   },
+    {
+    "id": 26,
+    "idea": "Portable Attendance System using IOT"
+   },
    {
-     "id":16,
+     "id": 27,
      "idea":"Note taking App",
    },
    {
@@ -120,38 +117,35 @@
     "idea": "Parallel Algorithm Visualizer"
    },
  {
-    "id": 17,
+    "id": 29,
     "idea": "Project Manajment system"
-
    },
    {
-    "id": 16,
+    "id": 30,
     "idea": "Whatsapp bot"
    },
    {
-    "id": 25,
+    "id": 31,
     "idea": "Google maps clone for college campus navigation"
    },
 {
-    "id": 26,
+    "id": 32,
     "idea": "Subjective Answer Evaluation using Natural Language Processing"
 },
 {
-    "id": 27,
+    "id": 33,
     "idea": "Online exam portal using blockchain technolgy"
    },
 {
-    "id": 28,
+    "id": 34,
     "idea": "land registry system using blockchain"
 },
 {
-    "id": 29,
+    "id": 35,
     "idea": "Count of people using drone technology"
-    "idea": "Notice Board"
 },
-{
-"id": 30,
-"idea": "create game using Javascript"
-},
-
+ {
+    "id": 36,
+    "idea": "Fake Logo Detector"
+ }
 ]
