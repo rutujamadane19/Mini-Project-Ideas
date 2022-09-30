@@ -88,6 +88,11 @@
    {
    "id": 21,
    "ideas": "PC Based GPS"
+   };
+   {
+    "id": 20,
+   "ideas": "headphone jack in smartphones"
+
    },
     {
       "id":22,
@@ -102,11 +107,42 @@
     "idea": "System.info"
    },
    {
+     "id":16,
+     "idea":"Note taking App",
+   },
+   {
+   "id": 28,
+    "idea": "Parallel Algorithm Visualizer"
+   },
+ {
+    "id": 17,
+    "idea": "Project Manajment system"
+
+   },
+   {
+    "id": 16,
+    "idea": "Whatsapp bot"
+   },
+   {
     "id": 25,
+    "idea": "Google maps clone for college campus navigation"
+   },
+{
+    "id": 26,
     "idea": "Subjective Answer Evaluation using Natural Language Processing"
 },
 {
-    "id": 26,
+    "id": 27,
     "idea": "Online exam portal using blockchain technolgy"
    },
+{
+    "id": 28,
+    "idea": "land registry system using blockchain"
+},
+{
+    "id": 29,
+    "idea": "Count of people using drone technology"
+    "idea": "Notice Board"
+}
+
 ]
