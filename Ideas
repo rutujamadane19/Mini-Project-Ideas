@@ -83,12 +83,7 @@
    {
     "id": 20,
     "idea": "WCE E-Colab"
-   }
-   {
-   "id": 19,
-   "ideas": "PC Based GPS"
    },
-
      {
     "id": 21,
     "idea": "Human Pose Detection"
@@ -156,9 +151,5 @@
     {
     "id": 37,
     "idea": "Ordering food in hotel through software and billit it automatically"
-   }
-   {
-   "id": 22,
-   "ideas": "Sign Language Detection"
    }
 ]
