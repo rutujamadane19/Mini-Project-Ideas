@@ -39,6 +39,9 @@
    {
     "id": 15,
     "idea": "System.info"
+   },
+   {
+    "id": 25,
+    "idea": "Google maps clone for college campus navigation"
    }
-
 ]
