@@ -69,7 +69,7 @@
     "id": 16,
     "idea": "Payroll Management System"
    },
-   {
+  {
     "id": 17,
     "idea": "Instagram Clone"
    },
@@ -96,5 +96,13 @@
    {
    "id": 23,
    "ideas": " Baby Cloud"
-   }
+   },
+    {
+    "id": 24,
+    "idea": "System.info"
+   },
+   {
+    "id": 25,
+    "idea": "Subjective Answer Evaluation using Natural Language Processing"
+}
 ]
