@@ -40,10 +40,6 @@
     "id": 9,
     "idea": "Disaster Management using jerks"
    },
-  {
-    "id": 10,
-    "idea": "Attendence Management System"
-},
    {
     "id": 11,
     "idea": "EaseLearn"
@@ -85,9 +81,14 @@
    {
     "id": 20,
     "idea": "WCE E-Colab"
+   }
+   {
+   "id": 19,
+   "ideas": "PC Based GPS"
    },
    {
    "id": 21,
-   "ideas": "PC Based GPS"
-   }
+   "idea": "Database Management"
+   },
+   
 ]
