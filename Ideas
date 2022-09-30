@@ -39,6 +39,9 @@
    {
     "id": 15,
     "idea": "System.info"
+   },
+   {
+     "id":16,
+     "idea":"Note taking App",
    }
-
 ]
