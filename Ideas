@@ -106,6 +106,10 @@
     "id": 24,
     "idea": "System.info"
    },
+   {
+    "id": 28,
+    "idea": "Parallel Algorithm Visualizer"
+   },
  {
     "id": 17,
     "idea": "Project Manajment system"
@@ -130,6 +134,7 @@
 {
     "id": 28,
     "idea": "Count of people using drone technology"
+    "idea": "Notice Board"
 }
 
 ]
