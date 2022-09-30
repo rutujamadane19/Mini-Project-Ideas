@@ -60,11 +60,6 @@
     "id": 14,
     "idea": "Personal AI Trainer"
    },
-    {
-    "id": 16,
-    "idea": "Ordering food in hotel through software and billit it automatically"
-
-   },
      {
     "id": 15,
     "idea": "Criminal detection using Machine learning"
@@ -150,5 +145,14 @@
 {
     "id": 35,
     "idea": "Count of people using drone technology"
-}
+},
+ {
+    "id": 36,
+    "idea": "Fake Logo Detector"
+ },
+    {
+    "id": 37,
+    "idea": "Ordering food in hotel through software and billit it automatically"
+
+   }
 ]
