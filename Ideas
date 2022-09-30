@@ -88,5 +88,9 @@
    {
    "id": 21,
    "ideas": "PC Based GPS"
+   },
+   {
+   "id": 22,
+   "ideas": "Skill Calculator based on data"
    }
 ]
