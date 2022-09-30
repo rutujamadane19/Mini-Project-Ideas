@@ -107,7 +107,11 @@
     "idea": "System.info"
    },
    {
-    "id": 28,
+     "id":16,
+     "idea":"Note taking App",
+   },
+   {
+   "id": 28,
     "idea": "Parallel Algorithm Visualizer"
    },
  {
